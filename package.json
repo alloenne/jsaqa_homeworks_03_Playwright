@@ -1,0 +1,16 @@
+{
+  "name": "jsaqa_homeworks_03_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.12.3",
+    "playwright": "^1.12.3"
+  }
+}
